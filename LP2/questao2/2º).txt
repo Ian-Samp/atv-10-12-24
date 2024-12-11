@@ -1,0 +1,7 @@
+a) O programa gera um novo objeto de "Funcionário" com nome de "f1".
+
+b) O programa entende que o nome atribuído ao objeto criado na linha 5 é "f1", assim tornando
+possível chamar os atributos da classe por meio desse novo nome.
+
+c) Sim, pois os atributos representados nas linhas 9 e 10 estão definidos como públicos
+em sua classe de origem.
